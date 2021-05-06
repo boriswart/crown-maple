@@ -1,4 +1,10 @@
+:root{
+    --amber-cm:   #592116;
+}
 body{
     background-color: #7a6b6b9d;
 }
 
+.amber-cm{
+    background-color: var(--amber-cm);
+}
